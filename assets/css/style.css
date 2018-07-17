@@ -1,0 +1,23 @@
+#gif-area {
+    float:left;
+}
+#search {
+    position:fixed;
+    top:10px;
+    right:0px;
+    float:right;
+    font-style: bold;
+}
+h2 {
+    margin-left: 20%;
+    font-style: italic;
+}
+label {
+    width: 175px;
+    height:25px;    
+}
+
+#add-show {
+    margin-top: 5px;
+}
+
